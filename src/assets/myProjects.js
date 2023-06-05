@@ -5,9 +5,10 @@ import portfolio from '../assets/images/portfolio.png'
 export const myProjects = [
     {
         title: 'My Porfolio',
-        description: "",
+        description: "My portfolio website showcases my skills, recent projects, and contact information, reflecting my passion for technology and innovation.",
         imgSrc: `${portfolio}`,
-        githubCode: 'https://github.com/shivamjhaaa/jhakaas'
+        link: 'https://shivamjha.vercel.app/',
+        githubCode: 'https://github.com/shivamjhaaa/portfolio'
     },
     {
         title: 'Cryptoo',
